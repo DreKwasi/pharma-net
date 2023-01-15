@@ -5,3 +5,4 @@ pharmanet_pointers.txt
 .streamlit
 pass_maker.ipynb
 __pycache__
+/.vscode
